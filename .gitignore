@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .metadata
 bin/
 tmp/
@@ -134,3 +135,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+=======
+/bin/
+>>>>>>> 3d5f18b (initialized project)
